@@ -61,7 +61,6 @@ export default class Tasklist extends Component {
             </td>
             <td>
               <select
-                name="addStatus"
                 className="form-control"
                 name="filterStatus"
                 value={filterStatus}
